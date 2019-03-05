@@ -1,0 +1,19 @@
+{
+  "name": "flectraimport",
+  "version": "1.0.0",
+  "description": "Import user information from excel file",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "moment": "^2.24.0",
+    "sqlite3": "^4.0.6",
+    "xlsx": "^0.14.1"
+  }
+}
